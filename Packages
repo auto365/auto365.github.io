@@ -110,22 +110,6 @@ Priority: standard
 Description: the advanced packaging tool from Debian
 Name: APT
 
-Package: apt1.4
-Version: 1:0
-Architecture: iphoneos-arm
-Maintainer: Sam Bingner <maintainer@sbdhi.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: apt
-Filename: ./deb/apt1.4_1%3a0_iphoneos-arm.deb
-Size: 772
-MD5sum: 57c714bd1463bf9d7fcd9e4b9cee55db
-SHA1: 5ace7b6fb0ff569e257ad209a6c907b5aac52478
-SHA256: a45a0f3d9e5e1f08b52814c4633ce971a912f20ef47e7637184dcc2f54305659
-Section: Packaging
-Priority: standard
-Description: the advanced packaging tool from Debian
-Name: APT 1.4 Transitional
-
 Package: cn.tinyapps.renet
 Version: 1.0
 Architecture: iphoneos-arm
