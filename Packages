@@ -427,6 +427,25 @@ Author: lordscotland <admin@officialscheduler.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
 Name: MTerminal
 
+Package: net.pulandres.audiorecorder
+Version: 1.9-16
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 12448
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: net.limneos.callrecorder
+Filename: ./deb/net.pulandres.audiorecorder_1.9-16_iphoneos-arm.deb
+Size: 3955328
+MD5sum: 97e5c9750e21426f482c09d5e53778ef
+SHA1: 67cf7e408e4b02e8abf2e83ecbb00129ea210952
+SHA256: 7a4527cebeb86903de354ca00bf8070579aa5fc7d3320f523e7c50aa7b69200e
+Section: Tweaks
+Description: Most Advanced iOS Call Recorder Ever!
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorder
+Mainlibmd5: 7d693e892a5b504021a574045f8284ed
+Name: AudioRecorder 2 Cracked
+
 Package: org.cydia.kiimo.crackicleanerpro
 Version: 1.0
 Architecture: iphoneos-arm
@@ -481,6 +500,26 @@ Priority: optional
 Multi-Arch: foreign
 Description: claims to be a good compressor
 Name: 7-zip (POSIX)
+
+Package: preferenceloader
+Version: 2.2.3-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./deb/preferenceloader_2.2.3-3_iphoneos-arm.deb
+Size: 20212
+MD5sum: d5f50688820c0fd131c9444d71ed5ff4
+SHA1: 4762891f375bf5e5c5e2ef4f1583b0ae76104367
+SHA256: a712bb8c7a22c32e2d94bf9af43d3db15cc0b0a8b46184f93550227f0bd912b8
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9
+Author: Dustin Howett <cydia.pl@relay.howett.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dustinhowett
+Name: PreferenceLoader
 
 Package: unrar
 Version: 5.6.4-1
