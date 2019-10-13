@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>Homepage:http://iosauto.net</title>
+    <title>http://iosauto.net</title>
 </head>
 <body>
 <p>联系我们:QQ群560017652</p>
